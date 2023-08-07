@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArohiVikhore
 - 👀 I’m interested in learning and exploring new things
-- 🌱 I’m currently learning DevOps Engineering 
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on make a repository on GitHub
 - 📫 How to reach me arohivikhore99@gmail.com
 
